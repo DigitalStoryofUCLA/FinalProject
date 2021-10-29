@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://oliviatruong.github.io/MiniAssignment/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://oliviatruong.github.io/MiniAssignment/</loc>
+</url>
+<url>
+<loc>https://oliviatruong.github.io/MiniAssignment/about-us.html</loc>
+<lastmod>2021-10-28T17:24:11-07:00</lastmod>
+<image:image>
+<image:loc>https://oliviatruong.github.io/MiniAssignment/media\posts\2/IMG_8722.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://oliviatruong.github.io/MiniAssignment/media\posts\2/IMG_0550.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://oliviatruong.github.io/MiniAssignment/media\posts\2/IMG_7606.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://oliviatruong.github.io/MiniAssignment/welcome-to-our-front-page.html</loc>
+<lastmod>2021-10-28T16:58:14-07:00</lastmod>
+</url>
+</urlset>
