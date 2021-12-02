@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>DH 150 Final Project</title>
-    <link href="https://oliviatruong.github.io/FinalProject/feed.xml" rel="self" />
-    <link href="https://oliviatruong.github.io/FinalProject" />
+    <link href="https://DigitalStoryofUCLA.github.io/FinalProject/feed.xml" rel="self" />
+    <link href="https://DigitalStoryofUCLA.github.io/FinalProject" />
     <updated>2021-12-01T11:42:23-08:00</updated>
     <author>
         <name>Olivia Truong</name>
     </author>
-    <id>https://oliviatruong.github.io/FinalProject</id>
+    <id>https://DigitalStoryofUCLA.github.io/FinalProject</id>
 
     <entry>
         <title>Future</title>
         <author>
             <name>Olivia Truong</name>
         </author>
-        <link href="https://oliviatruong.github.io/FinalProject/future/"/>
-        <id>https://oliviatruong.github.io/FinalProject/future/</id>
+        <link href="https://DigitalStoryofUCLA.github.io/FinalProject/future/"/>
+        <id>https://DigitalStoryofUCLA.github.io/FinalProject/future/</id>
 
         <updated>2021-12-01T11:42:23-08:00</updated>
             <summary>
@@ -48,8 +48,8 @@
         <author>
             <name>Olivia Truong</name>
         </author>
-        <link href="https://oliviatruong.github.io/FinalProject/timeline/"/>
-        <id>https://oliviatruong.github.io/FinalProject/timeline/</id>
+        <link href="https://DigitalStoryofUCLA.github.io/FinalProject/timeline/"/>
+        <id>https://DigitalStoryofUCLA.github.io/FinalProject/timeline/</id>
 
         <updated>2021-12-01T11:02:43-08:00</updated>
             <summary>
@@ -61,7 +61,7 @@
             <![CDATA[
                 <p>Welcome to the Timeline of UCLA</p>
 <p> </p>
-<h2><a href="https://oliviatruong.github.io/FinalProject/creation-of-ucla-and-our-institution-during-world-war-ii/">Creation of UCLA and our institution during WWII🡒</a></h2>
+<h2><a href="https://DigitalStoryofUCLA.github.io/FinalProject/creation-of-ucla-and-our-institution-during-world-war-ii/">Creation of UCLA and our institution during WWII🡒</a></h2>
 <p> </p>
             ]]>
         </content>
@@ -71,8 +71,8 @@
         <author>
             <name>Olivia Truong</name>
         </author>
-        <link href="https://oliviatruong.github.io/FinalProject/about-us-2/"/>
-        <id>https://oliviatruong.github.io/FinalProject/about-us-2/</id>
+        <link href="https://DigitalStoryofUCLA.github.io/FinalProject/about-us-2/"/>
+        <id>https://DigitalStoryofUCLA.github.io/FinalProject/about-us-2/</id>
 
         <updated>2021-11-22T08:58:29-08:00</updated>
             <summary>
@@ -84,13 +84,13 @@
             <![CDATA[
                 <p>The authors of this project are Olivia Truong, Karinn Murdock, and Leticia Valle. </p>
 <h2>Olivia Truong</h2>
-<figure class="post__image"><img loading="lazy"  src="https://oliviatruong.github.io/FinalProject/media/posts/8/IMG_8722.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://oliviatruong.github.io/FinalProject/media/posts/8/responsive/IMG_8722-xs.jpg 300w ,https://oliviatruong.github.io/FinalProject/media/posts/8/responsive/IMG_8722-sm.jpg 480w ,https://oliviatruong.github.io/FinalProject/media/posts/8/responsive/IMG_8722-md.jpg 768w ,https://oliviatruong.github.io/FinalProject/media/posts/8/responsive/IMG_8722-lg.jpg 1024w ,https://oliviatruong.github.io/FinalProject/media/posts/8/responsive/IMG_8722-xl.jpg 1360w ,https://oliviatruong.github.io/FinalProject/media/posts/8/responsive/IMG_8722-2xl.jpg 1600w"  alt="" width="254" height="338"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/8/IMG_8722.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/8/responsive/IMG_8722-xs.jpg 300w ,https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/8/responsive/IMG_8722-sm.jpg 480w ,https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/8/responsive/IMG_8722-md.jpg 768w ,https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/8/responsive/IMG_8722-lg.jpg 1024w ,https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/8/responsive/IMG_8722-xl.jpg 1360w ,https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/8/responsive/IMG_8722-2xl.jpg 1600w"  alt="" width="254" height="338"></figure>
 <p>Olivia is a 4th year Business Ecomomics major with a minor in Digital Humanities at UCLA. Originally from Massachusetts, she plans to work in New York City at EY-Parthenon upon graduation. In her free time, she enjoys live music, SoulCycle, and charceuterie boards.</p>
 <h2>Karinn Murdock</h2>
-<figure class="post__image"><img loading="lazy"  src="https://oliviatruong.github.io/FinalProject/media/posts/8/IMG_0550.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://oliviatruong.github.io/FinalProject/media/posts/8/responsive/IMG_0550-xs.jpg 300w ,https://oliviatruong.github.io/FinalProject/media/posts/8/responsive/IMG_0550-sm.jpg 480w ,https://oliviatruong.github.io/FinalProject/media/posts/8/responsive/IMG_0550-md.jpg 768w ,https://oliviatruong.github.io/FinalProject/media/posts/8/responsive/IMG_0550-lg.jpg 1024w ,https://oliviatruong.github.io/FinalProject/media/posts/8/responsive/IMG_0550-xl.jpg 1360w ,https://oliviatruong.github.io/FinalProject/media/posts/8/responsive/IMG_0550-2xl.jpg 1600w"  alt="" width="260" height="347"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/8/IMG_0550.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/8/responsive/IMG_0550-xs.jpg 300w ,https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/8/responsive/IMG_0550-sm.jpg 480w ,https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/8/responsive/IMG_0550-md.jpg 768w ,https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/8/responsive/IMG_0550-lg.jpg 1024w ,https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/8/responsive/IMG_0550-xl.jpg 1360w ,https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/8/responsive/IMG_0550-2xl.jpg 1600w"  alt="" width="260" height="347"></figure>
 <p>Karinn is a 4th year Business Ecomomics major with a minor in Digital Humanities and Value Investing Concentration. Originally from Southern California, she plans to work in New York City at Credit Suisse upon graduating. In her free time, she enjoys skateboarding, yoga, and going to the beach.</p>
 <h2>Leticia Valle</h2>
-<figure class="post__image"><img loading="lazy"  src="https://oliviatruong.github.io/FinalProject/media/posts/8/IMG_7606.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://oliviatruong.github.io/FinalProject/media/posts/8/responsive/IMG_7606-xs.jpg 300w ,https://oliviatruong.github.io/FinalProject/media/posts/8/responsive/IMG_7606-sm.jpg 480w ,https://oliviatruong.github.io/FinalProject/media/posts/8/responsive/IMG_7606-md.jpg 768w ,https://oliviatruong.github.io/FinalProject/media/posts/8/responsive/IMG_7606-lg.jpg 1024w ,https://oliviatruong.github.io/FinalProject/media/posts/8/responsive/IMG_7606-xl.jpg 1360w ,https://oliviatruong.github.io/FinalProject/media/posts/8/responsive/IMG_7606-2xl.jpg 1600w"  alt="" width="261" height="348"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/8/IMG_7606.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/8/responsive/IMG_7606-xs.jpg 300w ,https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/8/responsive/IMG_7606-sm.jpg 480w ,https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/8/responsive/IMG_7606-md.jpg 768w ,https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/8/responsive/IMG_7606-lg.jpg 1024w ,https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/8/responsive/IMG_7606-xl.jpg 1360w ,https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/8/responsive/IMG_7606-2xl.jpg 1600w"  alt="" width="261" height="348"></figure>
 <p>Leticia, or Leti, is a 4th year Business Economics major with minors in Digital Humanities and Accounting. Originally from Madrid, Spain, she plans to work in Miami at McKinsey &amp; Company after graduating. In her free time, she enjoys going on long walks, working out, and preparing healthy and delicious meals.  </p>
             ]]>
         </content>
@@ -100,8 +100,8 @@
         <author>
             <name>Olivia Truong</name>
         </author>
-        <link href="https://oliviatruong.github.io/FinalProject/2000s-to-present-day/"/>
-        <id>https://oliviatruong.github.io/FinalProject/2000s-to-present-day/</id>
+        <link href="https://DigitalStoryofUCLA.github.io/FinalProject/2000s-to-present-day/"/>
+        <id>https://DigitalStoryofUCLA.github.io/FinalProject/2000s-to-present-day/</id>
 
         <updated>2021-12-01T11:15:38-08:00</updated>
             <summary>
@@ -118,7 +118,7 @@
 <p><span style="font-weight: 400;">The UCLA Community School is one of 10 locally governed public schools in the greater Los Angeles area. It officially opened in 2009 in the Koreatown-Picto district, serving primarily Korean and Spanish speaking families. The school has a dual-language, college preparation program. </span></p>
 <figure class="post__image"><img loading="lazy"  src="https://schoolmint-assets.s3.amazonaws.com/lausdschoolsearch/upload/p4xoev_enrollmentexterior.jpg" data-is-external-image="true"  alt="" width="840" height="560"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://optimism.ucla.edu/assets/img/stories/we-renew/hero.jpg" data-is-external-image="true"  alt="" width="1400" height="765"></figure><br><br></p>
-<h2><a href="https://oliviatruong.github.io/FinalProject/future/">Future🡒</a></h2>
+<h2><a href="https://DigitalStoryofUCLA.github.io/FinalProject/future/">Future🡒</a></h2>
 <p><br><br><br></p>
             ]]>
         </content>
@@ -128,8 +128,8 @@
         <author>
             <name>Olivia Truong</name>
         </author>
-        <link href="https://oliviatruong.github.io/FinalProject/1970s-1990s/"/>
-        <id>https://oliviatruong.github.io/FinalProject/1970s-1990s/</id>
+        <link href="https://DigitalStoryofUCLA.github.io/FinalProject/1970s-1990s/"/>
+        <id>https://DigitalStoryofUCLA.github.io/FinalProject/1970s-1990s/</id>
 
         <updated>2021-12-01T11:17:17-08:00</updated>
             <summary>
@@ -157,7 +157,7 @@
 <p>Here is a soundscape depicting what Kerkhoff Coffee House sounds like today:</p>
 <div class="post__iframe"><iframe loading="lazy" width="640" height="480" src="https://drive.google.com/file/d/14t9E4zghtYDJ6t3l0zz3s3XEvmtLw38-/preview" allow="autoplay"></iframe></div>
 <figure class="post__image"><img loading="lazy"  src="https://assets.alumni.ucla.edu/wp-content/uploads/2015/05/rt-history-8.jpg" data-is-external-image="true"  alt="" width="574" height="339"></figure>
-<h2><a href="https://oliviatruong.github.io/FinalProject/2000s-to-present-day/">2000's to Present Day🡒</a></h2>
+<h2><a href="https://DigitalStoryofUCLA.github.io/FinalProject/2000s-to-present-day/">2000's to Present Day🡒</a></h2>
             ]]>
         </content>
     </entry>
@@ -166,8 +166,8 @@
         <author>
             <name>Olivia Truong</name>
         </author>
-        <link href="https://oliviatruong.github.io/FinalProject/1960s/"/>
-        <id>https://oliviatruong.github.io/FinalProject/1960s/</id>
+        <link href="https://DigitalStoryofUCLA.github.io/FinalProject/1960s/"/>
+        <id>https://DigitalStoryofUCLA.github.io/FinalProject/1960s/</id>
 
         <updated>2021-12-01T11:12:14-08:00</updated>
             <summary>
@@ -194,12 +194,12 @@
 <figure class="post__image"><img loading="lazy"  src="https://s3.amazonaws.com/cms.ipressroom.com/173/files/20146/53bf16cd299b50278c000ea2_New+student+orientation+1/New+student+orientation+1_mid.jpg" data-is-external-image="true"  alt="" width="506" height="336"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://images.squarespace-cdn.com/content/v1/55d8fcc8e4b001a6d404e1e1/1441013099746-LJVARFLTA2YYU0KA4ID2/image-asset.jpeg?format=500w" data-is-external-image="true"  alt="" width="500" height="500"></figure>
 <p>One of this project's creators, Leti, being bruintized!</p>
-<figure class="post__image"><img loading="lazy"  src="https://oliviatruong.github.io/FinalProject/media/posts/5/IMG_1632.JPG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://oliviatruong.github.io/FinalProject/media/posts/5/responsive/IMG_1632-xs.JPG 300w ,https://oliviatruong.github.io/FinalProject/media/posts/5/responsive/IMG_1632-sm.JPG 480w ,https://oliviatruong.github.io/FinalProject/media/posts/5/responsive/IMG_1632-md.JPG 768w ,https://oliviatruong.github.io/FinalProject/media/posts/5/responsive/IMG_1632-lg.JPG 1024w ,https://oliviatruong.github.io/FinalProject/media/posts/5/responsive/IMG_1632-xl.JPG 1360w ,https://oliviatruong.github.io/FinalProject/media/posts/5/responsive/IMG_1632-2xl.JPG 1600w"  alt="" width="389" height="519"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/5/IMG_1632.JPG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/5/responsive/IMG_1632-xs.JPG 300w ,https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/5/responsive/IMG_1632-sm.JPG 480w ,https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/5/responsive/IMG_1632-md.JPG 768w ,https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/5/responsive/IMG_1632-lg.JPG 1024w ,https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/5/responsive/IMG_1632-xl.JPG 1360w ,https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/5/responsive/IMG_1632-2xl.JPG 1600w"  alt="" width="389" height="519"></figure>
 <h2><span style="font-weight: 400;">Creation of Internet</span></h2>
 <p><span style="font-weight: 400;">The ARPANET, the world’s first electronic computer network, was created at the University of California, Los Angeles in 1969. The program was first deployed by a student programmer, named Charley Kline, who was supervised by Professor Leonard Kleinrock. On October 29, 1969 the first message was sent from UCLA’s computer in Boelter Hall to Douglas Engelbart’s lab at Stanford. The entire message should have been “LOGIN,” but Stanford’s system crashed and thus only the first two letters, “LO,” were sent. UCLA is known as the birthplace of the ARPANET, which is the precursor to the modern internet. The creation of this program was sponsored by the Department of Defense for new technologies and was then expanded to other UC schools and universities.</span></p>
 <figure class="post__image"><img loading="lazy"  src="https://samueli.ucla.edu/wp-content/uploads/samueli/internet_lab-1.jpg" data-is-external-image="true"  alt="" width="584" height="389"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://cdn.vox-cdn.com/thumbor/62LuoqtvJ84IC2HMjEeenzFkD10=/0x0:500x333/1220x813/filters:focal(210x126:290x206):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/61346393/6300000486_97de1a2029_o.0.0.1515092991.0.jpg" data-is-external-image="true"  alt="" width="593" height="395"></figure><br><br></p>
-<h2><a href="https://oliviatruong.github.io/FinalProject/1970s-1990s/">1970's - 1990's 🡒</a></h2>
+<h2><a href="https://DigitalStoryofUCLA.github.io/FinalProject/1970s-1990s/">1970's - 1990's 🡒</a></h2>
             ]]>
         </content>
     </entry>
@@ -208,8 +208,8 @@
         <author>
             <name>Olivia Truong</name>
         </author>
-        <link href="https://oliviatruong.github.io/FinalProject/ucla-during-the-mccarthy-era-and-uclas-golden-age-of-athletics/"/>
-        <id>https://oliviatruong.github.io/FinalProject/ucla-during-the-mccarthy-era-and-uclas-golden-age-of-athletics/</id>
+        <link href="https://DigitalStoryofUCLA.github.io/FinalProject/ucla-during-the-mccarthy-era-and-uclas-golden-age-of-athletics/"/>
+        <id>https://DigitalStoryofUCLA.github.io/FinalProject/ucla-during-the-mccarthy-era-and-uclas-golden-age-of-athletics/</id>
 
         <updated>2021-12-01T11:06:20-08:00</updated>
             <summary>
@@ -231,7 +231,7 @@
 <h3><span style="font-weight: 400;">FOOTBALL</span></h3>
 <p><span style="font-weight: 400;">Henry Russell Sanders became UCLA’s head football coach in 1949, just a couple years after World War II had ended. Known as “Red” by the sports community, he was head coach at our institution for nine years and during these nine seasons, Bruin football won 66 games, lost 19 and tied once. His team finished first three times in the Pacific Coast Conference in consecutive years: 1953, 1954, and 1955. He originated the quote “winning isn't everything, it’s the only thing” and his teams’ wins gave rise to the UCLA-USC rivalry. Red Sanders, would have continued to coach the Bruins and lead them to victory, but he unexpectedly passed away in 1958, before he could do so. Additionally, in 1962, Pasadena’s the Rose Bowl became the UCLA Bruins official home stadium. Millions of Bruins and fans have since gathered at the stadium to support the UCLA football team throughout the seasons.</span></p>
 <figure class="post__image"><img loading="lazy"  src="https://newsletter.alumni.ucla.edu/connect/2020/jan/ucla-in-the-1980s/images/Rose%20Bowl%20became%20home%20of%20UCLA%20Football.jpg" data-is-external-image="true"  alt="" width="800" height="450"></figure>
-<h2><a href="https://oliviatruong.github.io/FinalProject/1960s/">1960's🡒</a></h2>
+<h2><a href="https://DigitalStoryofUCLA.github.io/FinalProject/1960s/">1960's🡒</a></h2>
             ]]>
         </content>
     </entry>
@@ -240,8 +240,8 @@
         <author>
             <name>Olivia Truong</name>
         </author>
-        <link href="https://oliviatruong.github.io/FinalProject/creation-of-ucla-and-our-institution-during-world-war-ii/"/>
-        <id>https://oliviatruong.github.io/FinalProject/creation-of-ucla-and-our-institution-during-world-war-ii/</id>
+        <link href="https://DigitalStoryofUCLA.github.io/FinalProject/creation-of-ucla-and-our-institution-during-world-war-ii/"/>
+        <id>https://DigitalStoryofUCLA.github.io/FinalProject/creation-of-ucla-and-our-institution-during-world-war-ii/</id>
 
         <updated>2021-12-01T11:39:32-08:00</updated>
             <summary>
@@ -258,10 +258,10 @@
 </figure>
 <p><span style="font-weight: 400;">The Los Angeles State Normal School was transformed into the Southern Branch of the University of California and officially opened in September 1919 with over 1500 students. Originally, the Southern Branch offered only a two-year undergraduate program and as a result those who wanted to pursue a bachelor’s degree had to transfer to UC Berkeley or another college. After a strong campaign from the faculty and student body, in 1924 the UC Regents approved the Southern Branch as a four-year degree-granting institution and in 1925 the Southern Branch awarded the first ever Bachelor of Arts degree to 100 women and 24 men. </span></p>
 <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-columns="2">
-<figure class="gallery__item"><a href="https://oliviatruong.github.io/FinalProject/media/posts/3/gallery/1923-Regents-Rally.png" data-size="724x384"><img loading="lazy" src="https://oliviatruong.github.io/FinalProject/media/posts/3/gallery/1923-Regents-Rally-thumbnail.png" alt="Regents Rally" width="720" height="382"></a>
+<figure class="gallery__item"><a href="https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/3/gallery/1923-Regents-Rally.png" data-size="724x384"><img loading="lazy" src="https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/3/gallery/1923-Regents-Rally-thumbnail.png" alt="Regents Rally" width="720" height="382"></a>
 <figcaption>Regents Rally</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://oliviatruong.github.io/FinalProject/media/posts/3/gallery/Vermont-Campus.jpg" data-size="800x560"><img loading="lazy" src="https://oliviatruong.github.io/FinalProject/media/posts/3/gallery/Vermont-Campus-thumbnail.jpg" alt="Vermont Campus" width="720" height="504"></a>
+<figure class="gallery__item"><a href="https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/3/gallery/Vermont-Campus.jpg" data-size="800x560"><img loading="lazy" src="https://DigitalStoryofUCLA.github.io/FinalProject/media/posts/3/gallery/Vermont-Campus-thumbnail.jpg" alt="Vermont Campus" width="720" height="504"></a>
 <figcaption>Vermont Campus</figcaption>
 </figure>
 </div></div>
@@ -291,7 +291,7 @@
 <h2><span style="font-weight: 400;">Post-war</span></h2>
 <p><span style="font-weight: 400;">Once the war ended, UCLA started a $38 million construction program through which several of UCLA’s graduate schools such as the engineering, nursing, law, and medical schools were developed. In 1944 the School of Engineering was established following the aerospace work that took place at UCLA during the war. In 1947, Governor Warren authorized $1 million for the construction of a School of Law. The School of Law opened in 1949, making it the first public law school in Southern California. Also in 1949, UC Regents authorized the School of Nursing, as a larger program was needed due to nurses leaving military service and coming to UCLA through the G.I. Bill. </span></p>
 <figure class="post__image"><img loading="lazy"  src="https://assets.alumni.ucla.edu/wp-content/uploads/2015/05/tmih-jul-law1.jpg" data-is-external-image="true"  alt="" width="350" height="275"></figure>
-<h2><a href="https://oliviatruong.github.io/FinalProject/ucla-during-the-mccarthy-era-and-uclas-golden-age-of-athletics/">UCLA during the McCarthy Era and UCLA's "Golden Age of Athletics"🡒</a></h2>
+<h2><a href="https://DigitalStoryofUCLA.github.io/FinalProject/ucla-during-the-mccarthy-era-and-uclas-golden-age-of-athletics/">UCLA during the McCarthy Era and UCLA's "Golden Age of Athletics"🡒</a></h2>
 <p> </p>
             ]]>
         </content>
