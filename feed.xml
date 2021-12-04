@@ -3,12 +3,43 @@
     <title>DH 150 Final Project</title>
     <link href="https://DigitalStoryofUCLA.github.io/FinalProject/feed.xml" rel="self" />
     <link href="https://DigitalStoryofUCLA.github.io/FinalProject" />
-    <updated>2021-12-04T12:55:06-08:00</updated>
+    <updated>2021-12-04T13:59:05-08:00</updated>
     <author>
         <name>Olivia Truong</name>
     </author>
     <id>https://DigitalStoryofUCLA.github.io/FinalProject</id>
 
+    <entry>
+        <title>Present</title>
+        <author>
+            <name>Olivia Truong</name>
+        </author>
+        <link href="https://DigitalStoryofUCLA.github.io/FinalProject/present/"/>
+        <id>https://DigitalStoryofUCLA.github.io/FinalProject/present/</id>
+
+        <updated>2021-12-04T13:56:41-08:00</updated>
+            <summary>
+                <![CDATA[
+                    This section gives a glimpse into the creators' experiences during their time at UCLA. Enjoy! Check out this video to see what a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This section gives a glimpse into the creators' experiences during their time at UCLA. Enjoy!</p>
+<h2>Mini-vlog: Day in the Life</h2>
+<p>Check out this video to see what a typical day in the life of a UCLA student looks like, shot and edited by one of our creators, Leticia Valle. </p>
+<div class="post__iframe"><iframe loading="lazy" width="640" height="480" src="https://drive.google.com/file/d/1CrGwWGvswYEtYlIzKJTAcwBdmSMyuh60/preview" allow="autoplay"></iframe></div>
+<h2>Interactive Game: Tour Guide</h2>
+<p>Can't make it to Westwood to tour UCLA's campus? No worries, click through this interactive game to learn all the information given on a tour. Made by one of UCLA's very own tour guides, Karinn Murdock. </p>
+<p> </p>
+<h2>Interactive Game: A Night Out at UCLA</h2>
+<p>Wondering what it's like to have some fun outside of coursework at UCLA? Click through this interactive game to see why UCLA students have the most fun! Created by a master at having fun herself, Leti Valle. </p>
+<div class="post__iframe"><iframe loading="lazy" width="800px" height="600px" style="border: 0px #ffffff none;" src="https://letiivallee.github.io/TwineUCLAFriday/" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" allowfullscreen="allowfullscreen"></iframe></div>
+<h3><a href="https://DigitalStoryofUCLA.github.io/FinalProject/future/">Future</a></h3>
+<p><br><br><br></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Future</title>
         <author>
@@ -17,29 +48,18 @@
         <link href="https://DigitalStoryofUCLA.github.io/FinalProject/future/"/>
         <id>https://DigitalStoryofUCLA.github.io/FinalProject/future/</id>
 
-        <updated>2021-12-04T12:55:06-08:00</updated>
+        <updated>2021-12-04T13:59:05-08:00</updated>
             <summary>
                 <![CDATA[
-                    UCLA has had a tremendous impact on its students, faculty, Los Angeles, California and the world. Our institution’s mission to create, disseminate, preserve and apply our knowledge for the betterment of our global society will continue to live on for generations to come. While 100&hellip;
+                    Looking to join the Bruin family in the future? You came to the right place. UCLA has had a tremendous impact on its&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><span style="font-weight: 400;">UCLA has had a tremendous impact on its students, faculty, Los Angeles, California and the world. Our institution’s mission to create, disseminate, preserve and apply our knowledge for the betterment of our global society will continue to live on for generations to come. While 100 years have gone by, UCLA has yet much more to offer in the future.</span></p>
-<h2>Day in the Life</h2>
-<p>Here is what a day in the life looks like for one of our creators, Leti: </p>
-<div class="post__iframe"><iframe loading="lazy" width="640" height="480" src="https://drive.google.com/file/d/1CrGwWGvswYEtYlIzKJTAcwBdmSMyuh60/preview" allow="autoplay"></iframe></div>
-<ul>
-<li aria-level="3"><em><strong>Testimonials from one of us!</strong></em></li>
-<li style="list-style-type: none;">
-<ul>
-<li style="font-weight: 400;" aria-level="2"><em><span style="font-weight: 400;">Host Olympic Village at UCLA (2028)</span></em></li>
-<li style="font-weight: 400;" aria-level="2"><em><span style="font-weight: 400;">Discoveries in medicine and treatments (depression, PTSD, pandemic, medical treatments)</span></em></li>
-</ul>
-</li>
-</ul>
-<h2>Undergraduate Admission Requirements Interactive Resource</h2>
-<p>If you are a current high school or college student interested in applying to UCLA, check out this interactive game developed using Twine that walks you through the most important admission requirements:</p>
+                <p>Looking to join the Bruin family in the future? You came to the right place. </p>
+<p><span style="font-weight: 400;">UCLA has had a tremendous impact on its students, faculty, Los Angeles, California and the world. Our institution’s mission to create, disseminate, preserve and apply our knowledge for the betterment of our global society will continue to live on for generations to come. While 100 years have gone by, UCLA has yet much more to offer in the future. </span></p>
+<h2>Undergraduate Admission Requirements Interactive Guide</h2>
+<p>If you are a current high school or college student interested in applying to UCLA, check out this interactive game that walks you through the most important admission requirements. Developed by a UCLA Undergraduate Admissions Representative, Olivia Truong. </p>
 <div class="post__iframe"><iframe loading="lazy" width="600px" height="400px" style="border: 0px #ffffff none;" src="https://digitalstoryofucla.github.io/AdmissionRequirements/" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
@@ -55,7 +75,7 @@
         <updated>2021-12-02T00:26:48-08:00</updated>
             <summary>
                 <![CDATA[
-                    As a relatively young institution, UCLA has undergone countless pivotal moments that shape the course and history of the college. Click through the arrows below for an overview of UCLA's timeline. For an in-depth narrative of our beloved institution, click through the following eras: 
+                    As a relatively young institution, UCLA has undergone countless pivotal moments that shape the course and history of the college. Click through the&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -79,7 +99,7 @@
         <updated>2021-12-01T17:43:41-08:00</updated>
             <summary>
                 <![CDATA[
-                    The authors of this project are Olivia Truong, Karinn Murdock, and Leticia Valle. Olivia is a 4th year Business Ecomomics major with a minor in Digital Humanities at UCLA. Originally from Massachusetts, she plans to work in New York City at EY-Parthenon upon graduation. In her&hellip;
+                    The authors of this project are Olivia Truong, Karinn Murdock, and Leticia Valle. Olivia is a 4th year Business Ecomomics major with a minor&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -98,17 +118,17 @@
         </content>
     </entry>
     <entry>
-        <title>2000&#x27;s to Present Day </title>
+        <title>2000&#x27;s</title>
         <author>
             <name>Olivia Truong</name>
         </author>
         <link href="https://DigitalStoryofUCLA.github.io/FinalProject/2000s-to-present-day/"/>
         <id>https://DigitalStoryofUCLA.github.io/FinalProject/2000s-to-present-day/</id>
 
-        <updated>2021-12-02T00:29:38-08:00</updated>
+        <updated>2021-12-04T13:49:21-08:00</updated>
             <summary>
                 <![CDATA[
-                    Dream Act During the first decade of the 21st century, both students and faculty members began to advocate for undocmented students as well as the passage of the DREAM Act. This act stands for “Development, Relief, and Education for Alien Minors Act,” and the law&hellip;
+                    Dream Act During the first decade of the 21st century, both students and faculty members began to advocate for undocmented students as well&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -128,10 +148,6 @@
 <figcaption>UCLA Community School K-12 Aerial View</figcaption>
 </figure>
 </div></div>
-<h2>Interactive Game: A Night Out at UCLA</h2>
-<div class="post__iframe"><iframe loading="lazy" width="800px" height="600px" style="border: 0px #ffffff none;" src="https://letiivallee.github.io/TwineUCLAFriday/" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" allowfullscreen="allowfullscreen"></iframe></div>
-<h3><a href="https://DigitalStoryofUCLA.github.io/FinalProject/future/">Future</a></h3>
-<p><br><br><br></p>
             ]]>
         </content>
     </entry>
@@ -146,7 +162,7 @@
         <updated>2021-12-02T00:17:33-08:00</updated>
             <summary>
                 <![CDATA[
-                    1984 Olympics In the summer of 1984, the city of Los Angeles hosted the 23rd Olympic Games. UCLA legend and Olympic decathlete Rafer Johnson, who graduated in 1959, carried the torch into the Los Angeles Coliseum during the Olympic commencement ceremony. The campus was transformed&hellip;
+                    1984 Olympics In the summer of 1984, the city of Los Angeles hosted the 23rd Olympic Games. UCLA legend and Olympic decathlete Rafer&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -211,7 +227,7 @@
         <updated>2021-12-01T23:58:44-08:00</updated>
             <summary>
                 <![CDATA[
-                    California Master Plan The original Master plan for the University of California was approved by the Regents and the State Board of education in 1959. UCLA’s Chancellor at the time, Franklin David Murphy, strived to develop and increase our institution's autonomy. The major features signed&hellip;
+                    California Master Plan The original Master plan for the University of California was approved by the Regents and the State Board of education&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -268,7 +284,7 @@
         <updated>2021-12-01T23:48:20-08:00</updated>
             <summary>
                 <![CDATA[
-                    Founding of School of Medicine (research institution) After the second world war, physicians at the University of California believed that the southern branch of the school should establish a medical presence. On October 19, 1945, the Board of Regents approved its creation and passed a&hellip;
+                    Founding of School of Medicine (research institution) After the second world war, physicians at the University of California believed that the southern branch&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -304,7 +320,7 @@
         <updated>2021-12-04T12:37:26-08:00</updated>
             <summary>
                 <![CDATA[
-                    Branch State Normal School of California In 1868 the University of California was established at Berkeley and the Regents of the University of California was established as the governing body. As Los Angeles established a public school system, residents campaigned to create an institution of&hellip;
+                    Branch State Normal School of California In 1868 the University of California was established at Berkeley and the Regents of the University of&hellip;
                 ]]>
             </summary>
         <content type="html">
