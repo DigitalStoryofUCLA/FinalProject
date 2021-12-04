@@ -42,14 +42,14 @@
             "url": "https://DigitalStoryofUCLA.github.io/FinalProject/timeline/",
             "title": "Timeline",
             "summary": "As a relatively young institution, UCLA has undergone countless pivotal moments that shape the course and history of the college. Click through the&hellip;",
-            "content_html": "<p>As a relatively young institution, UCLA has undergone countless pivotal moments that shape the course and history of the college. Click through the arrows below for an overview of UCLA's timeline.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"800\" height=\"650\" src=\"https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Znac0KDfOwYCPDP6qgRDF8b8ipMvJNP_tSUA46-HyX0&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650\" webkitallowfullscreen=\"webkitallowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe></div>\n<p>For an in-depth narrative of our beloved institution, click through the following eras:</p>\n<h3><a href=\"https://DigitalStoryofUCLA.github.io/FinalProject/creation-of-ucla-and-our-institution-during-world-war-ii/\">Creation of UCLA and our institution during WWII</a></h3>\n<p> </p>",
+            "content_html": "<p>As a relatively young institution, UCLA has undergone countless pivotal moments that shape the course and history of the college. Click through the arrows below for an overview of UCLA's timeline.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"1000\" height=\"800\" src=\"https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Znac0KDfOwYCPDP6qgRDF8b8ipMvJNP_tSUA46-HyX0&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650\" webkitallowfullscreen=\"webkitallowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe></div>\n<p>For an in-depth narrative of our beloved institution, click through the following eras:</p>\n<h3><a href=\"https://DigitalStoryofUCLA.github.io/FinalProject/creation-of-ucla-and-our-institution-during-world-war-ii/\">Creation of UCLA and our institution during WWII</a></h3>\n<p> </p>",
             "author": {
                 "name": "Olivia Truong"
             },
             "tags": [
             ],
             "date_published": "2021-11-22T09:01:00-08:00",
-            "date_modified": "2021-12-02T00:26:48-08:00"
+            "date_modified": "2021-12-04T15:39:11-08:00"
         },
         {
             "id": "https://DigitalStoryofUCLA.github.io/FinalProject/about-us-2/",
@@ -63,7 +63,7 @@
             "tags": [
             ],
             "date_published": "2021-11-22T08:57:40-08:00",
-            "date_modified": "2021-12-04T14:35:42-08:00"
+            "date_modified": "2021-12-04T15:37:33-08:00"
         },
         {
             "id": "https://DigitalStoryofUCLA.github.io/FinalProject/2000s-to-present-day/",
